@@ -1,0 +1,8 @@
+USER_AGENT_NAME,USER_AGENT_VALUE
+curl,curl/7.9.8 (i686-pc-linux-gnu) libcurl 7.9.8 (OpenSSL 0.9.6b) (ipv6 enabled)
+PWSL_XML,GET: $Null
+PWSL_WR,Mozilla/5.0 (Windows NT; Windows NT 10.0; de-DE) WindowsPowerShell/5.1.17763.316
+Office Unprotected View,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.3; WOW64; Trident/7.0; .NET4.0E; .NET4.0C; .NET CLR 3.5.30729; .NET CLR 2.0.50727; .NET CLR 3.0.30729; Tablet PC 2.0; ms-office)
+BitsAdmin,Microsoft Bits/10.0
+CERTUTIL,Microsoft-CryptoAPI/10.0
+DOTNET(mshta rundll32 wmic regsvr32),Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 6.3; Trident/7.0; .NET4.0E; .NET CLR 2.0.50727)
